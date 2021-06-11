@@ -1,2 +1,2 @@
 geopandas==0.9.0
-numpy==1.09.12
+pandas==1.24.0
